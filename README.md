@@ -1,5 +1,5 @@
 # Apresentação de TCC
-## Pós-graduação Lato Sensu em Ciência de Dados e Big Data
+## Pós-graduação Lato Sensu em Ciência de Dados e Big Data (2021)
 ### PREVISÃO DE NOVOS CASOS POR COVID-19 NO ESTADO DE SÃO PAULO
 
 Conteúdo:
@@ -22,3 +22,6 @@ Conteúdo:
       -  10-SIGMOID
       -  10-LSTM com camada SIGMOID
 
+Desenvolvidor por: Anderson Lopes Pereira
+https://www.linkedin.com/in/andersonlopespereira
+E-mail: anderson@kamix.com.br
