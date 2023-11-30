@@ -23,5 +23,5 @@ Conteúdo:
       -  10-LSTM com camada SIGMOID
 
 Desenvolvidor por: Anderson Lopes Pereira
-https://www.linkedin.com/in/andersonlopespereira
-E-mail: anderson@kamix.com.br
+https://www.linkedin.com/in/andersonlopespereira <br>
+E-mail: anderson@kamix.com.br | Matrícula: 1145423
